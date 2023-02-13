@@ -1,5 +1,5 @@
-# mini-portfolio
-Portifolio simplificado, destinados mais para o pessoal da areal de artes visuais
+# Portfolio
+Portifolio simplificado, destinados para DEVs!
 
 
-https://mor3sco.github.io/mini-portfolio/
+https://github.com/wendeldh7
